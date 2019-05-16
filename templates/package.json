@@ -1,0 +1,23 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose miller",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "handlebars": "^4.1.1",
+    "hbs": "^4.0.3",
+    "helpers": "0.0.6",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.5.0",
+    "popper": "^1.0.1",
+    "yargs": "^13.2.2"
+  }
+}

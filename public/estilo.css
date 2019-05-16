@@ -1,0 +1,17 @@
+body{
+    color: grey;
+    font-family: century gothic;
+    min-height: 100vh;
+}
+
+footer{
+
+    color: blueviolet;
+    border-top: 2px solid blueviolet;
+    margin-top: 16px;
+    text-align: center;
+}
+.form-grup{
+    width: 50%;
+}
+
